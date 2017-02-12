@@ -12,7 +12,6 @@ In this activity, you'll practice applying **sample weights** to survey data in 
 5. Using the `table` function get a table of 12+ drinks in the last year responses
 
 6. Using the `prop.table` function, get the proportions of each response
-svytable(~alq101, design=nhanes.weighted)
 
 7. Using the `svytable` function, compute the survey weighted responses to the same question
 
