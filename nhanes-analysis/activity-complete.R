@@ -1,7 +1,7 @@
 # Calculate survey weighted estimates
 
 # Set up
-setwd('~/Documents/info-498c/demos/nhanes-analysis/')
+setwd('~/Desktop/pophealth/demos/nhanes-analysis/')
 # library(foreign)
 library(survey)
 library(dplyr)
